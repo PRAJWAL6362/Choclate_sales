@@ -1,0 +1,301 @@
+Sales Person,Geography,Product,Amount,Units,cost per unit,Cost,Profit,profit %
+Ram Mahesh,New Zealand,70% Dark Bites,"$1,624 ",114,14,"1,652",($28),-2%
+Brien Boise,USA,Choco Coated Almonds,"$6,706 ",459,9,"3,970","$2,736 ",41%
+Husein Augar,USA,Almond Choco,$959 ,147,12,"1,746",($787),-82%
+Carla Molina,Canada,Drinking Coco,"$9,632 ",288,6,"1,863","$7,769 ",81%
+Curtice Advani,UK,White Choc,"$2,100 ",414,13,"5,444","($3,344)",-159%
+Ram Mahesh,USA,Peanut Butter Cubes,"$8,869 ",432,12,"5,344","$3,525 ",40%
+Curtice Advani,Australia,Smooth Sliky Salty,"$2,681 ",54,6,313,"$2,368 ",88%
+Brien Boise,USA,After Nines,"$5,012 ",210,10,"2,052","$2,960 ",59%
+Ches Bonnell,Australia,50% Dark Bites,"$1,281 ",75,12,878,$404 ,31%
+Gigi Bohling,New Zealand,50% Dark Bites,"$4,991 ",12,12,140,"$4,851 ",97%
+Barr Faughny,UK,White Choc,"$1,785 ",462,13,"6,075","($4,290)",-240%
+Gunar Cockshoot,New Zealand,Eclairs,"$3,983 ",144,3,448,"$3,535 ",89%
+Husein Augar,Australia,Mint Chip Choco,"$2,646 ",120,9,"1,055","$1,591 ",60%
+Barr Faughny,India,Milk Bars,$252 ,54,9,504,($252),-100%
+Gunar Cockshoot,USA,White Choc,"$2,464 ",234,13,"3,077",($613),-25%
+Gunar Cockshoot,USA,Manuka Honey Choco,"$2,114 ",66,7,473,"$1,641 ",78%
+Curtice Advani,New Zealand,Smooth Sliky Salty,"$7,693 ",87,6,504,"$7,189 ",93%
+Gigi Bohling,India,Orange Choco,"$15,610 ",339,11,"3,600","$12,010 ",77%
+Carla Molina,India,After Nines,$336 ,144,10,"1,407","($1,071)",-319%
+Barr Faughny,UK,Orange Choco,"$9,443 ",162,11,"1,720","$7,723 ",82%
+Husein Augar,India,Fruit & Nut Bars,"$8,155 ",90,6,584,"$7,571 ",93%
+Brien Boise,Australia,Fruit & Nut Bars,"$1,701 ",234,6,"1,519",$182 ,11%
+Oby Sorrel,Australia,After Nines,"$2,205 ",141,10,"1,378",$827 ,38%
+Brien Boise,New Zealand,99% Dark & Pure,"$1,771 ",204,8,"1,559",$212 ,12%
+Carla Molina,USA,Raspberry Choco,"$2,114 ",186,12,"2,182",($68),-3%
+Carla Molina,Canada,Milk Bars,"$10,311 ",231,9,"2,155","$8,156 ",79%
+Gunar Cockshoot,UK,Mint Chip Choco,$21 ,168,9,"1,477","($1,456)",-6932%
+Oby Sorrel,USA,Orange Choco,"$1,974 ",195,11,"2,071",($97),-5%
+Gigi Bohling,Canada,Fruit & Nut Bars,"$6,314 ",15,6,97,"$6,217 ",98%
+Oby Sorrel,New Zealand,Fruit & Nut Bars,"$4,683 ",30,6,195,"$4,488 ",96%
+Carla Molina,New Zealand,85% Dark Bars,"$6,398 ",102,5,507,"$5,891 ",92%
+Barr Faughny,USA,99% Dark & Pure,$553 ,15,8,115,$438 ,79%
+Brien Boise,UK,70% Dark Bites,"$7,021 ",183,14,"2,652","$4,369 ",62%
+Ram Mahesh,UK,After Nines,"$5,817 ",12,10,117,"$5,700 ",98%
+Carla Molina,UK,50% Dark Bites,"$3,976 ",72,12,842,"$3,134 ",79%
+Curtice Advani,Australia,Organic Choco Syrup,"$1,134 ",282,17,"4,718","($3,584)",-316%
+Barr Faughny,UK,Caramel Stuffed Bars,"$6,027 ",144,10,"1,495","$4,532 ",75%
+Curtice Advani,New Zealand,Mint Chip Choco,"$1,904 ",405,9,"3,560","($1,656)",-87%
+Ches Bonnell,India,Choco Coated Almonds,"$3,262 ",75,9,649,"$2,613 ",80%
+Ram Mahesh,India,Organic Choco Syrup,"$2,289 ",135,17,"2,259",$30 ,1%
+Gigi Bohling,India,Organic Choco Syrup,"$6,986 ",21,17,351,"$6,635 ",95%
+Barr Faughny,Australia,Fruit & Nut Bars,"$4,417 ",153,6,993,"$3,424 ",78%
+Curtice Advani,India,Raspberry Choco,"$1,442 ",15,12,176,"$1,266 ",88%
+Gunar Cockshoot,USA,50% Dark Bites,"$2,415 ",255,12,"2,984",($569),-24%
+Barr Faughny,New Zealand,99% Dark & Pure,$238 ,18,8,138,$100 ,42%
+Curtice Advani,New Zealand,Fruit & Nut Bars,"$4,949 ",189,6,"1,227","$3,722 ",75%
+Gigi Bohling,Australia,Choco Coated Almonds,"$5,075 ",21,9,182,"$4,893 ",96%
+Gunar Cockshoot,Canada,Mint Chip Choco,"$9,198 ",36,9,316,"$8,882 ",97%
+Curtice Advani,India,Manuka Honey Choco,"$3,339 ",75,7,537,"$2,802 ",84%
+Ram Mahesh,India,Eclairs,"$5,019 ",156,3,485,"$4,534 ",90%
+Gigi Bohling,Canada,Mint Chip Choco,"$16,184 ",39,9,343,"$15,841 ",98%
+Curtice Advani,Canada,Spicy Special Slims,$497 ,63,9,567,($70),-14%
+Barr Faughny,Canada,Manuka Honey Choco,"$8,211 ",75,7,537,"$7,674 ",93%
+Barr Faughny,Australia,Caramel Stuffed Bars,"$6,580 ",183,10,"1,900","$4,680 ",71%
+Carla Molina,USA,Milk Bars,"$4,760 ",69,9,644,"$4,116 ",86%
+Ram Mahesh,Canada,White Choc,"$5,439 ",30,13,395,"$5,045 ",93%
+Carla Molina,India,Eclairs,"$1,463 ",39,3,121,"$1,342 ",92%
+Gunar Cockshoot,India,Choco Coated Almonds,"$7,777 ",504,9,"4,360","$3,417 ",44%
+Husein Augar,New Zealand,Manuka Honey Choco,"$1,085 ",273,7,"1,955",($870),-80%
+Gigi Bohling,New Zealand,Smooth Sliky Salty,$182 ,48,6,278,($96),-53%
+Curtice Advani,India,Organic Choco Syrup,"$4,242 ",207,17,"3,463",$779 ,18%
+Curtice Advani,Canada,Choco Coated Almonds,"$6,118 ",9,9,78,"$6,040 ",99%
+Oby Sorrel,Canada,Fruit & Nut Bars,"$2,317 ",261,6,"1,694",$623 ,27%
+Curtice Advani,Australia,Mint Chip Choco,$938 ,6,9,53,$885 ,94%
+Brien Boise,New Zealand,Raspberry Choco,"$9,709 ",30,12,352,"$9,357 ",96%
+Ches Bonnell,India,Orange Choco,"$2,205 ",138,11,"1,466",$739 ,34%
+Ches Bonnell,New Zealand,Eclairs,"$4,487 ",111,3,345,"$4,142 ",92%
+Gigi Bohling,USA,Drinking Coco,"$2,415 ",15,6,97,"$2,318 ",96%
+Ram Mahesh,India,99% Dark & Pure,"$4,018 ",162,8,"1,238","$2,780 ",69%
+Gigi Bohling,India,99% Dark & Pure,$861 ,195,8,"1,490",($629),-73%
+Oby Sorrel,Australia,50% Dark Bites,"$5,586 ",525,12,"6,143",($557),-10%
+Ches Bonnell,India,Peanut Butter Cubes,"$2,226 ",48,12,594,"$1,632 ",73%
+Husein Augar,India,Caramel Stuffed Bars,"$14,329 ",150,10,"1,557","$12,772 ",89%
+Husein Augar,India,Orange Choco,"$8,463 ",492,11,"5,225","$3,238 ",38%
+Gigi Bohling,India,Manuka Honey Choco,"$2,891 ",102,7,730,"$2,161 ",75%
+Gunar Cockshoot,Canada,Fruit & Nut Bars,"$3,773 ",165,6,"1,071","$2,702 ",72%
+Carla Molina,Canada,Caramel Stuffed Bars,$854 ,309,10,"3,207","($2,353)",-276%
+Curtice Advani,Canada,Eclairs,"$4,970 ",156,3,485,"$4,485 ",90%
+Husein Augar,USA,Baker's Choco Chips,$98 ,159,6,890,($792),-809%
+Gigi Bohling,USA,Raspberry Choco,"$13,391 ",201,12,"2,358","$11,033 ",82%
+Brien Boise,UK,Smooth Sliky Salty,"$8,890 ",210,6,"1,216","$7,674 ",86%
+Barr Faughny,Australia,Milk Bars,$56 ,51,9,476,($420),-750%
+Gunar Cockshoot,Canada,White Choc,"$3,339 ",39,13,513,"$2,826 ",85%
+Oby Sorrel,USA,Drinking Coco,"$3,808 ",279,6,"1,805","$2,003 ",53%
+Oby Sorrel,Australia,Milk Bars,$63 ,123,9,"1,148","($1,085)",-1722%
+Barr Faughny,UK,Organic Choco Syrup,"$7,812 ",81,17,"1,355","$6,457 ",83%
+Ram Mahesh,New Zealand,99% Dark & Pure,"$7,693 ",21,8,160,"$7,533 ",98%
+Gunar Cockshoot,Canada,Caramel Stuffed Bars,$973 ,162,10,"1,682",($709),-73%
+Oby Sorrel,USA,Spicy Special Slims,$567 ,228,9,"2,052","($1,485)",-262%
+Oby Sorrel,Canada,Manuka Honey Choco,"$2,471 ",342,7,"2,449",$22 ,1%
+Gigi Bohling,Australia,Milk Bars,"$7,189 ",54,9,504,"$6,685 ",93%
+Carla Molina,USA,Caramel Stuffed Bars,"$7,455 ",216,10,"2,242","$5,213 ",70%
+Gunar Cockshoot,India,Baker's Choco Chips,"$3,108 ",54,6,302,"$2,806 ",90%
+Curtice Advani,Australia,White Choc,$469 ,75,13,986,($517),-110%
+Husein Augar,New Zealand,Fruit & Nut Bars,"$2,737 ",93,6,604,"$2,133 ",78%
+Husein Augar,New Zealand,White Choc,"$4,305 ",156,13,"2,051","$2,254 ",52%
+Husein Augar,Australia,Eclairs,"$2,408 ",9,3,28,"$2,380 ",99%
+Gunar Cockshoot,Canada,99% Dark & Pure,"$1,281 ",18,8,138,"$1,143 ",89%
+Ram Mahesh,USA,Choco Coated Almonds,"$12,348 ",234,9,"2,024","$10,324 ",84%
+Gunar Cockshoot,India,Caramel Stuffed Bars,"$3,689 ",312,10,"3,239",$450 ,12%
+Ches Bonnell,Canada,99% Dark & Pure,"$2,870 ",300,8,"2,292",$578 ,20%
+Barr Faughny,Canada,Organic Choco Syrup,$798 ,519,17,"8,683","($7,885)",-988%
+Carla Molina,New Zealand,Spicy Special Slims,"$2,933 ",9,9,81,"$2,852 ",97%
+Gigi Bohling,USA,Almond Choco,"$2,744 ",9,12,107,"$2,637 ",96%
+Ram Mahesh,Canada,Peanut Butter Cubes,"$9,772 ",90,12,"1,113","$8,659 ",89%
+Ches Bonnell,India,White Choc,"$1,568 ",96,13,"1,262",$306 ,19%
+Barr Faughny,Canada,Mint Chip Choco,"$11,417 ",21,9,185,"$11,232 ",98%
+Ram Mahesh,India,Baker's Choco Chips,"$6,748 ",48,6,269,"$6,479 ",96%
+Oby Sorrel,Canada,Organic Choco Syrup,"$1,407 ",72,17,"1,205",$202 ,14%
+Brien Boise,USA,Manuka Honey Choco,"$2,023 ",168,7,"1,203",$820 ,41%
+Gigi Bohling,UK,Baker's Choco Chips,"$5,236 ",51,6,286,"$4,950 ",95%
+Carla Molina,Canada,99% Dark & Pure,"$1,925 ",192,8,"1,467",$458 ,24%
+Ches Bonnell,New Zealand,50% Dark Bites,"$6,608 ",225,12,"2,633","$3,976 ",60%
+Curtice Advani,India,Baker's Choco Chips,"$8,008 ",456,6,"2,554","$5,454 ",68%
+Oby Sorrel,India,White Choc,"$1,428 ",93,13,"1,223",$205 ,14%
+Curtice Advani,India,Almond Choco,$525 ,48,12,570,($45),-9%
+Curtice Advani,New Zealand,Drinking Coco,"$1,505 ",102,6,660,$845 ,56%
+Ches Bonnell,USA,70% Dark Bites,"$6,755 ",252,14,"3,651","$3,104 ",46%
+Barr Faughny,New Zealand,Drinking Coco,"$11,571 ",138,6,893,"$10,678 ",92%
+Ram Mahesh,Australia,White Choc,"$2,541 ",90,13,"1,184","$1,358 ",53%
+Carla Molina,New Zealand,70% Dark Bites,"$1,526 ",240,14,"3,478","($1,952)",-128%
+Ram Mahesh,Australia,Almond Choco,"$6,125 ",102,12,"1,212","$4,913 ",80%
+Carla Molina,USA,Organic Choco Syrup,$847 ,129,17,"2,158","($1,311)",-155%
+Brien Boise,USA,Organic Choco Syrup,"$4,753 ",300,17,"5,019",($266),-6%
+Curtice Advani,Australia,Peanut Butter Cubes,$959 ,135,12,"1,670",($711),-74%
+Ches Bonnell,USA,85% Dark Bars,"$2,793 ",114,5,567,"$2,226 ",80%
+Ches Bonnell,USA,50% Dark Bites,"$4,606 ",63,12,737,"$3,869 ",84%
+Ches Bonnell,Canada,Manuka Honey Choco,"$5,551 ",252,7,"1,804","$3,747 ",67%
+Oby Sorrel,Canada,Choco Coated Almonds,"$6,657 ",303,9,"2,621","$4,036 ",61%
+Ches Bonnell,UK,Eclairs,"$4,438 ",246,3,765,"$3,673 ",83%
+Brien Boise,Australia,After Nines,$168 ,84,10,821,($653),-389%
+Ches Bonnell,India,Eclairs,"$7,777 ",39,3,121,"$7,656 ",98%
+Gigi Bohling,Canada,Eclairs,"$3,339 ",348,3,"1,082","$2,257 ",68%
+Ches Bonnell,New Zealand,Peanut Butter Cubes,"$6,391 ",48,12,594,"$5,797 ",91%
+Gigi Bohling,New Zealand,After Nines,$518 ,75,10,733,($215),-41%
+Ches Bonnell,Australia,Caramel Stuffed Bars,"$5,677 ",258,10,"2,678","$2,999 ",53%
+Curtice Advani,UK,Eclairs,"$6,048 ",27,3,84,"$5,964 ",99%
+Brien Boise,Australia,Choco Coated Almonds,"$3,752 ",213,9,"1,842","$1,910 ",51%
+Gigi Bohling,USA,Manuka Honey Choco,"$4,480 ",357,7,"2,556","$1,924 ",43%
+Husein Augar,New Zealand,Almond Choco,$259 ,207,12,"2,459","($2,200)",-849%
+Brien Boise,New Zealand,70% Dark Bites,$42 ,150,14,"2,174","($2,132)",-5075%
+Carla Molina,Canada,Baker's Choco Chips,$98 ,204,6,"1,142","($1,044)",-1066%
+Ches Bonnell,USA,Organic Choco Syrup,"$2,478 ",21,17,351,"$2,127 ",86%
+Carla Molina,India,Peanut Butter Cubes,"$7,847 ",174,12,"2,152","$5,695 ",73%
+Barr Faughny,New Zealand,Eclairs,"$9,926 ",201,3,625,"$9,301 ",94%
+Brien Boise,Australia,Milk Bars,$819 ,510,9,"4,758","($3,939)",-481%
+Curtice Advani,UK,Manuka Honey Choco,"$3,052 ",378,7,"2,706",$346 ,11%
+Husein Augar,India,Spicy Special Slims,"$6,832 ",27,9,243,"$6,589 ",96%
+Barr Faughny,UK,Mint Chip Choco,"$2,016 ",117,9,"1,028",$988 ,49%
+Curtice Advani,Australia,Spicy Special Slims,"$7,322 ",36,9,324,"$6,998 ",96%
+Brien Boise,USA,Peanut Butter Cubes,$357 ,126,12,"1,559","($1,202)",-337%
+Husein Augar,UK,White Choc,"$3,192 ",72,13,947,"$2,245 ",70%
+Ches Bonnell,Canada,After Nines,"$8,435 ",42,10,410,"$8,025 ",95%
+Ram Mahesh,UK,Manuka Honey Choco,$0 ,135,7,967,($967),#DIV/0!
+Ches Bonnell,India,85% Dark Bars,"$8,862 ",189,5,939,"$7,923 ",89%
+Curtice Advani,New Zealand,Caramel Stuffed Bars,"$3,556 ",459,10,"4,764","($1,208)",-34%
+Gigi Bohling,India,Raspberry Choco,"$7,280 ",201,12,"2,358","$4,922 ",68%
+Curtice Advani,India,70% Dark Bites,"$3,402 ",366,14,"5,303","($1,901)",-56%
+Gunar Cockshoot,New Zealand,Manuka Honey Choco,"$4,592 ",324,7,"2,320","$2,272 ",49%
+Husein Augar,USA,Raspberry Choco,"$7,833 ",243,12,"2,850","$4,983 ",64%
+Barr Faughny,UK,Spicy Special Slims,"$7,651 ",213,9,"1,917","$5,734 ",75%
+Ram Mahesh,USA,70% Dark Bites,"$2,275 ",447,14,"6,477","($4,202)",-185%
+Ram Mahesh,Australia,Milk Bars,"$5,670 ",297,9,"2,771","$2,899 ",51%
+Ches Bonnell,USA,Mint Chip Choco,"$2,135 ",27,9,237,"$1,898 ",89%
+Ram Mahesh,India,Fruit & Nut Bars,"$2,779 ",75,6,487,"$2,292 ",82%
+Oby Sorrel,UK,Peanut Butter Cubes,"$12,950 ",30,12,371,"$12,579 ",97%
+Ches Bonnell,Canada,Drinking Coco,"$2,646 ",177,6,"1,145","$1,501 ",57%
+Ram Mahesh,India,Peanut Butter Cubes,"$3,794 ",159,12,"1,967","$1,827 ",48%
+Gunar Cockshoot,USA,Peanut Butter Cubes,$819 ,306,12,"3,785","($2,966)",-362%
+Gunar Cockshoot,India,Orange Choco,"$2,583 ",18,11,191,"$2,392 ",93%
+Ches Bonnell,USA,99% Dark & Pure,"$4,585 ",240,8,"1,834","$2,751 ",60%
+Gigi Bohling,India,Peanut Butter Cubes,"$1,652 ",93,12,"1,150",$502 ,30%
+Oby Sorrel,India,Baker's Choco Chips,"$4,991 ",9,6,50,"$4,941 ",99%
+Brien Boise,India,Mint Chip Choco,"$2,009 ",219,9,"1,925",$84 ,4%
+Barr Faughny,UK,After Nines,"$1,568 ",141,10,"1,378",$190 ,12%
+Carla Molina,New Zealand,Orange Choco,"$3,388 ",123,11,"1,306","$2,082 ",61%
+Ram Mahesh,Australia,85% Dark Bars,$623 ,51,5,253,$370 ,59%
+Curtice Advani,Canada,Almond Choco,"$10,073 ",120,12,"1,426","$8,647 ",86%
+Brien Boise,UK,Baker's Choco Chips,"$1,561 ",27,6,151,"$1,410 ",90%
+Husein Augar,Canada,Organic Choco Syrup,"$11,522 ",204,17,"3,413","$8,109 ",70%
+Curtice Advani,Australia,Milk Bars,"$2,317 ",123,9,"1,148","$1,169 ",50%
+Oby Sorrel,New Zealand,Caramel Stuffed Bars,"$3,059 ",27,10,280,"$2,779 ",91%
+Carla Molina,New Zealand,Baker's Choco Chips,"$2,324 ",177,6,991,"$1,333 ",57%
+Gunar Cockshoot,UK,Baker's Choco Chips,"$4,956 ",171,6,958,"$3,998 ",81%
+Oby Sorrel,India,99% Dark & Pure,"$5,355 ",204,8,"1,559","$3,796 ",71%
+Gunar Cockshoot,India,50% Dark Bites,"$7,259 ",276,12,"3,229","$4,030 ",56%
+Brien Boise,New Zealand,Baker's Choco Chips,"$6,279 ",45,6,252,"$6,027 ",96%
+Ram Mahesh,Australia,Manuka Honey Choco,"$2,541 ",45,7,322,"$2,219 ",87%
+Curtice Advani,USA,Organic Choco Syrup,"$3,864 ",177,17,"2,961",$903 ,23%
+Gigi Bohling,Canada,Milk Bars,"$6,146 ",63,9,588,"$5,558 ",90%
+Husein Augar,UK,Drinking Coco,"$2,639 ",204,6,"1,320","$1,319 ",50%
+Brien Boise,New Zealand,After Nines,"$1,890 ",195,10,"1,905",($15),-1%
+Ches Bonnell,India,50% Dark Bites,"$1,932 ",369,12,"4,317","($2,385)",-123%
+Gunar Cockshoot,India,White Choc,"$6,300 ",42,13,552,"$5,748 ",91%
+Curtice Advani,New Zealand,70% Dark Bites,$560 ,81,14,"1,174",($614),-110%
+Husein Augar,New Zealand,Baker's Choco Chips,"$2,856 ",246,6,"1,378","$1,478 ",52%
+Husein Augar,India,Eclairs,$707 ,174,3,541,$166 ,23%
+Brien Boise,USA,70% Dark Bites,"$3,598 ",81,14,"1,174","$2,424 ",67%
+Ram Mahesh,USA,After Nines,"$6,853 ",372,10,"3,634","$3,219 ",47%
+Ram Mahesh,USA,Mint Chip Choco,"$4,725 ",174,9,"1,529","$3,196 ",68%
+Carla Molina,Canada,Choco Coated Almonds,"$10,304 ",84,9,727,"$9,577 ",93%
+Carla Molina,India,Mint Chip Choco,"$1,274 ",225,9,"1,978",($704),-55%
+Gigi Bohling,Canada,70% Dark Bites,"$1,526 ",105,14,"1,521",$5 ,0%
+Ram Mahesh,UK,Caramel Stuffed Bars,"$3,101 ",225,10,"2,336",$766 ,25%
+Barr Faughny,New Zealand,50% Dark Bites,"$1,057 ",54,12,632,$425 ,40%
+Ches Bonnell,New Zealand,Baker's Choco Chips,"$5,306 ",0,6,0,"$5,306 ",100%
+Gigi Bohling,UK,85% Dark Bars,"$4,018 ",171,5,850,"$3,168 ",79%
+Husein Augar,India,Mint Chip Choco,$938 ,189,9,"1,661",($723),-77%
+Ches Bonnell,Australia,Drinking Coco,"$1,778 ",270,6,"1,747",$31 ,2%
+Curtice Advani,UK,70% Dark Bites,"$1,638 ",63,14,913,$725 ,44%
+Carla Molina,Australia,White Choc,$154 ,21,13,276,($122),-79%
+Ches Bonnell,New Zealand,After Nines,"$9,835 ",207,10,"2,022","$7,813 ",79%
+Husein Augar,New Zealand,Orange Choco,"$7,273 ",96,11,"1,020","$6,253 ",86%
+Gigi Bohling,UK,After Nines,"$6,909 ",81,10,791,"$6,118 ",89%
+Husein Augar,UK,85% Dark Bars,"$3,920 ",306,5,"1,521","$2,399 ",61%
+Oby Sorrel,UK,Spicy Special Slims,"$4,858 ",279,9,"2,511","$2,347 ",48%
+Barr Faughny,Australia,Almond Choco,"$3,549 ",3,12,36,"$3,513 ",99%
+Ches Bonnell,UK,Organic Choco Syrup,$966 ,198,17,"3,313","($2,347)",-243%
+Gigi Bohling,UK,Drinking Coco,$385 ,249,6,"1,611","($1,226)",-318%
+Curtice Advani,India,Mint Chip Choco,"$2,219 ",75,9,659,"$1,560 ",70%
+Husein Augar,Canada,Choco Coated Almonds,"$2,954 ",189,9,"1,635","$1,319 ",45%
+Ches Bonnell,Canada,Choco Coated Almonds,$280 ,87,9,753,($473),-169%
+Carla Molina,Canada,70% Dark Bites,"$6,118 ",174,14,"2,521","$3,597 ",59%
+Barr Faughny,UK,Raspberry Choco,"$4,802 ",36,12,422,"$4,380 ",91%
+Husein Augar,Australia,85% Dark Bars,"$4,137 ",60,5,298,"$3,839 ",93%
+Gunar Cockshoot,USA,Fruit & Nut Bars,"$2,023 ",78,6,506,"$1,517 ",75%
+Husein Augar,Canada,70% Dark Bites,"$9,051 ",57,14,826,"$8,225 ",91%
+Husein Augar,New Zealand,Caramel Stuffed Bars,"$2,919 ",45,10,467,"$2,452 ",84%
+Carla Molina,Australia,After Nines,"$5,915 ",3,10,29,"$5,886 ",100%
+Oby Sorrel,USA,Raspberry Choco,"$2,562 ",6,12,70,"$2,492 ",97%
+Gigi Bohling,New Zealand,White Choc,"$8,813 ",21,13,276,"$8,537 ",97%
+Gigi Bohling,Canada,Drinking Coco,"$6,111 ",3,6,19,"$6,092 ",100%
+Brien Boise,India,Smooth Sliky Salty,"$3,507 ",288,6,"1,668","$1,839 ",52%
+Curtice Advani,Canada,Milk Bars,"$4,319 ",30,9,280,"$4,039 ",94%
+Ram Mahesh,Australia,Baker's Choco Chips,$609 ,87,6,487,$122 ,20%
+Ram Mahesh,UK,Organic Choco Syrup,"$6,370 ",30,17,502,"$5,868 ",92%
+Gigi Bohling,Australia,99% Dark & Pure,"$5,474 ",168,8,"1,284","$4,190 ",77%
+Ram Mahesh,Canada,Organic Choco Syrup,"$3,164 ",306,17,"5,119","($1,955)",-62%
+Curtice Advani,USA,Almond Choco,"$1,302 ",402,12,"4,776","($3,474)",-267%
+Gunar Cockshoot,New Zealand,Caramel Stuffed Bars,"$7,308 ",327,10,"3,394","$3,914 ",54%
+Ram Mahesh,New Zealand,Organic Choco Syrup,"$6,132 ",93,17,"1,556","$4,576 ",75%
+Oby Sorrel,USA,50% Dark Bites,"$3,472 ",96,12,"1,123","$2,349 ",68%
+Brien Boise,UK,Drinking Coco,"$9,660 ",27,6,175,"$9,485 ",98%
+Husein Augar,Australia,Baker's Choco Chips,"$2,436 ",99,6,554,"$1,882 ",77%
+Husein Augar,Australia,Peanut Butter Cubes,"$9,506 ",87,12,"1,076","$8,430 ",89%
+Oby Sorrel,New Zealand,Spicy Special Slims,$245 ,288,9,"2,592","($2,347)",-958%
+Brien Boise,USA,Orange Choco,"$2,702 ",363,11,"3,855","($1,153)",-43%
+Oby Sorrel,India,Eclairs,$700 ,87,3,271,$429 ,61%
+Curtice Advani,India,Eclairs,"$3,759 ",150,3,467,"$3,293 ",88%
+Barr Faughny,USA,Eclairs,"$1,589 ",303,3,942,$647 ,41%
+Ches Bonnell,USA,Caramel Stuffed Bars,"$5,194 ",288,10,"2,989","$2,205 ",42%
+Oby Sorrel,Canada,Milk Bars,$945 ,75,9,700,$245 ,26%
+Ram Mahesh,Australia,Smooth Sliky Salty,"$1,988 ",39,6,226,"$1,762 ",89%
+Curtice Advani,India,Choco Coated Almonds,"$6,734 ",123,9,"1,064","$5,670 ",84%
+Ram Mahesh,Canada,Almond Choco,$217 ,36,12,428,($211),-97%
+Gigi Bohling,India,After Nines,"$6,279 ",237,10,"2,315","$3,964 ",63%
+Ram Mahesh,Canada,Milk Bars,"$4,424 ",201,9,"1,875","$2,549 ",58%
+Barr Faughny,Canada,Eclairs,$189 ,48,3,149,$40 ,21%
+Gigi Bohling,USA,After Nines,$490 ,84,10,821,($331),-67%
+Brien Boise,New Zealand,Spicy Special Slims,$434 ,87,9,783,($349),-80%
+Ches Bonnell,Australia,70% Dark Bites,"$10,129 ",312,14,"4,521","$5,608 ",55%
+Gunar Cockshoot,UK,Caramel Stuffed Bars,"$1,652 ",102,10,"1,059",$593 ,36%
+Brien Boise,Australia,Spicy Special Slims,"$6,433 ",78,9,702,"$5,731 ",89%
+Gunar Cockshoot,India,Fruit & Nut Bars,"$2,212 ",117,6,759,"$1,453 ",66%
+Carla Molina,USA,99% Dark & Pure,$609 ,99,8,756,($147),-24%
+Ram Mahesh,USA,85% Dark Bars,"$1,638 ",48,5,239,"$1,399 ",85%
+Ches Bonnell,India,Raspberry Choco,"$3,829 ",24,12,282,"$3,547 ",93%
+Ram Mahesh,UK,Raspberry Choco,"$5,775 ",42,12,493,"$5,282 ",91%
+Curtice Advani,USA,Orange Choco,"$1,071 ",270,11,"2,867","($1,796)",-168%
+Brien Boise,Canada,Fruit & Nut Bars,"$5,019 ",150,6,974,"$4,046 ",81%
+Barr Faughny,New Zealand,Raspberry Choco,"$2,863 ",42,12,493,"$2,370 ",83%
+Ram Mahesh,USA,Manuka Honey Choco,"$1,617 ",126,7,902,$715 ,44%
+Curtice Advani,New Zealand,Baker's Choco Chips,"$6,818 ",6,6,34,"$6,784 ",100%
+Gunar Cockshoot,USA,Raspberry Choco,"$6,657 ",276,12,"3,237","$3,420 ",51%
+Gunar Cockshoot,India,Eclairs,"$2,919 ",93,3,289,"$2,630 ",90%
+Barr Faughny,Canada,Smooth Sliky Salty,"$3,094 ",246,6,"1,424","$1,670 ",54%
+Curtice Advani,UK,85% Dark Bars,"$2,989 ",3,5,15,"$2,974 ",100%
+Brien Boise,Australia,Organic Choco Syrup,"$2,268 ",63,17,"1,054","$1,214 ",54%
+Gigi Bohling,USA,Smooth Sliky Salty,"$4,753 ",246,6,"1,424","$3,329 ",70%
+Barr Faughny,India,99% Dark & Pure,"$7,511 ",120,8,917,"$6,594 ",88%
+Barr Faughny,Australia,Smooth Sliky Salty,"$4,326 ",348,6,"2,015","$2,311 ",53%
+Carla Molina,India,Fruit & Nut Bars,"$4,935 ",126,6,818,"$4,117 ",83%
+Curtice Advani,USA,70% Dark Bites,"$4,781 ",123,14,"1,782","$2,999 ",63%
+Gigi Bohling,Australia,White Choc,"$7,483 ",45,13,592,"$6,891 ",92%
+Oby Sorrel,Australia,Almond Choco,"$6,860 ",126,12,"1,497","$5,363 ",78%
+Ram Mahesh,New Zealand,Manuka Honey Choco,"$9,002 ",72,7,516,"$8,486 ",94%
+Curtice Advani,Canada,Manuka Honey Choco,"$1,400 ",135,7,967,$433 ,31%
+Oby Sorrel,India,After Nines,"$4,053 ",24,10,234,"$3,819 ",94%
+Ches Bonnell,Canada,Smooth Sliky Salty,"$2,149 ",117,6,677,"$1,472 ",68%
+Gunar Cockshoot,UK,Manuka Honey Choco,"$3,640 ",51,7,365,"$3,275 ",90%
+Barr Faughny,UK,Fruit & Nut Bars,$630 ,36,6,234,$396 ,63%
+Husein Augar,USA,Organic Choco Syrup,"$2,429 ",144,17,"2,409",$20 ,1%
+Husein Augar,Canada,White Choc,"$2,142 ",114,13,"1,499",$643 ,30%
+Ches Bonnell,New Zealand,70% Dark Bites,"$6,454 ",54,14,782,"$5,672 ",88%
+Ches Bonnell,New Zealand,Mint Chip Choco,"$4,487 ",333,9,"2,927","$1,560 ",35%
+Gunar Cockshoot,New Zealand,Almond Choco,$938 ,366,12,"4,348","($3,410)",-364%
+Gunar Cockshoot,Australia,Baker's Choco Chips,"$8,841 ",303,6,"1,697","$7,144 ",81%
+Barr Faughny,UK,Peanut Butter Cubes,"$4,018 ",126,12,"1,559","$2,459 ",61%
+Carla Molina,New Zealand,Raspberry Choco,$714 ,231,12,"2,710","($1,996)",-280%
+Husein Augar,Australia,White Choc,"$3,850 ",102,13,"1,341","$2,509 ",65%
